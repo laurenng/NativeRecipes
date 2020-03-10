@@ -123,14 +123,14 @@ h4 {
   border-top-right-radius: 5px;
 }
 .smallc > h1 {
-  color: blue;
+  color: black;
   font-size: 22px;
   text-align: left;
   margin: 4px;
 }
 
 .smallc > p {
-  color: black;
+  color: gray;
   font-size: 12px;
   text-align: left;
   margin: 4px;
@@ -199,4 +199,9 @@ h4 {
 
 .back img {
   height: 20px;
+}
+
+/*food sovereignty*/
+#foodsov {
+  text-align: center;
 }
