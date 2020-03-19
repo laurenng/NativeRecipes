@@ -205,3 +205,29 @@ h4 {
 #foodsov {
   text-align: center;
 }
+
+.potato {
+  width: 75%;
+  margin-left: 12.5%;
+  margin-right: 12.5;
+}
+
+#form {
+  align-items: center;
+  width: 75%;
+  margin-left: 12.5%;
+  margin-right: 12.5;
+  background-color: orange;
+  padding: 20px;
+}
+
+#textbox {
+    height:200px;
+    width: 50%;
+    font-size:14pt;
+}
+
+#fname {
+  width: 50%;
+  font-size: 14pt;
+}
